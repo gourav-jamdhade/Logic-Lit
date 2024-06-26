@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "148860156851",
+    "project_id": "logic-lit",
+    "storage_bucket": "logic-lit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148860156851:android:227fc1ac461ee4dd57e9c6",
+        "android_client_info": {
+          "package_name": "com.example.rationalbooks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148860156851-dchuclsqbg1lt4aainmj67ta8m6i3tlk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rationalbooks",
+            "certificate_hash": "e0d11e6e0d0becb0a848a19b40dbaf8045d8305e"
+          }
+        },
+        {
+          "client_id": "148860156851-m6ni45tu9fsgh1aurev5650t3a4vuht1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALteQsXavpa9w28aU-dZ30dSOmPNAkvDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148860156851-m6ni45tu9fsgh1aurev5650t3a4vuht1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
